@@ -1,2 +1,2 @@
-# House-Price-Project
-git practical 1
+Git practical 1
+house price prediction
